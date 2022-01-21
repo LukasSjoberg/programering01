@@ -1,4 +1,3 @@
-print(avengers)
-dc
 
-näääee
+
+list =["man","man","man","Allan""lord","woman","hulk"]
