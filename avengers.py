@@ -1,4 +1,1 @@
-print(avengers)
-dc
-
-näääee
+list=["iron", "the", "black", "star", "berry", "super", "thor", "green", "captain",]
